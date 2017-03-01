@@ -1,0 +1,129 @@
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\jQueryWCF.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Edm.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.OData.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Services.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\System.Spatial.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Edm.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.OData.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Services.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\bin\System.Spatial.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\obj\Debug\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\jQueryWCF\jQueryWCF\obj\Debug\jQueryWCF.pdb
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+D:\WCF\Additional Ex\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+D:\WCF\Additional Ex\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll.config
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\WCF\myExamples\jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll.config
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll.config
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\jQueryWCF.pdb
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Edm.xml
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.OData.xml
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.xml
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\bin\System.Spatial.xml
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.g.resources
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.dll
+C:\Users\Grigory\Desktop\5_jQueryWCF\jQueryWCF(simple)\jQueryWCF\obj\Debug\jQueryWCF.pdb

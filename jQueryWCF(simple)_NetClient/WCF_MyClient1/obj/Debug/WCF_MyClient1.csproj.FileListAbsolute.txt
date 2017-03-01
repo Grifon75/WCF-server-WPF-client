@@ -1,0 +1,27 @@
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.exe
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.csprojResolveAssemblyReference.cache
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe.config
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.exe
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.pdb
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.pdb
+D:\WCF\Additional Ex\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.exe
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\New\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.csprojResolveAssemblyReference.cache
+D:\ASP.NET\ASP_NET_\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe.config
+D:\ASP.NET\ASP_NET_\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.exe
+D:\ASP.NET\ASP_NET_\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.pdb
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe.config
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.exe
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\bin\Debug\WCF_MyClient1.pdb
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.csprojResolveAssemblyReference.cache
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.exe
+I:\Programmer\ASP.NET\ASP_NET_5\ASP_NET_5\Examples\5_jQueryWCF\jQueryWCF(simple)_NetClient\WCF_MyClient1\obj\Debug\WCF_MyClient1.pdb
